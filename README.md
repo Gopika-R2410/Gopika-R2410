@@ -1,126 +1,87 @@
 <div align="center">
 
-<img src="./assets/banner.jpg" width="100%" alt="Starry Night Banner"/>
+<img src="./assets/banner.jpg" alt="Banner" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Gopika+%F0%9F%91%8B;CSE+Student+%7C+Aspiring+SDE;Java+%26+DSA+Enthusiast;Building+Real-World+Projects+%F0%9F%9A%80;Open+to+Internships+%26+SDE+Roles!" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=4C8BF5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gopika+Ravi;Computer+Science+Student;Java+%26+DSA+Enthusiast;Building+Real-World+Projects;Open+to+Internship+%2F+SDE+Roles)](https://git.io/typing-svg)
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopika-ravi-8bb160332)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Gopika_Ravi24/)
-[![GitHub followers](https://img.shields.io/github/followers/Gopika-R2410?style=for-the-badge&color=6C63FF&logo=github)](https://github.com/Gopika-R2410?tab=followers)
-
-</div>
-
----
-
-### 🌌 About Me
-
-```yaml
-name: Gopika Ravi
-role: CSE Student | Aspiring Software Engineer
-focus: Java, DSA, Full-Stack Development
-currently_solving: LeetCode 🧩
-looking_for: Internship & SDE Opportunities 🚀
-fun_fact: I turn late-night ideas into shipped projects ✨
-```
-
-- 🔭 Currently building cool full-stack & UI-heavy projects
-- 🌱 Sharpening my Data Structures & Algorithms game, one problem at a time
-- 💬 Ask me about Java, JavaScript, or slick UI/UX (glassmorphism & neubrutalism fan!)
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/gopika-ravi-8bb160332)
-- ⚡ Fun fact: my repos range from productivity dashboards to a "zero chill" character counter
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>
+  <a href="https://www.linkedin.com/in/gopika-ravi-8bb160332"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Gopika_Ravi24/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Gopika-R2410&label=Profile%20Views&color=4C8BF5&style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### About Me
 
-<div align="center">
+I'm a Computer Science Engineering student focused on building practical, real-world applications and strengthening my foundations in Java and Data Structures & Algorithms. I enjoy turning ideas into working products, from full-stack systems to small, well-crafted UI experiments, and I'm actively looking for internship and SDE opportunities where I can contribute and keep learning.
 
-<a href="https://github.com/Gopika-R2410/dropSpace">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gopika-R2410&repo=dropSpace&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Gopika-R2410/Scholar_doodlebox">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gopika-R2410&repo=Scholar_doodlebox&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Gopika-R2410/flowsync-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gopika-R2410&repo=flowsync-app&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Gopika-R2410/nexus-crud">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gopika-R2410&repo=nexus-crud&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Gopika-R2410/Web-Cafe">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gopika-R2410&repo=Web-Cafe&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Gopika-R2410/Tally">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gopika-R2410&repo=Tally&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-| Project | Highlight |
-|---|---|
-| 🔗 **dropSpace** | Real-time cross-device clipboard & media vault, paired via 6-digit code or QR |
-| 📚 **Scholar DoodleBox** | All-in-one student productivity hub — Pomodoro, GitHub/LeetCode/HackerRank tracking, goals & notes |
-| ⚡ **Tally** | Maximalist neubrutalist word & character counter, zero dependencies |
-| 🎯 **FlowSync** | Gamified productivity dashboard with priority tasks & integrated tools |
-| 🛒 **Nexus CRUD** | Full-stack supermarket POS & inventory system — Spring Boot + MySQL, glassmorphic UI |
-| ☕ **Web Café** | Premium UI/UX concept with custom cursor, magnetic hover grid & GSAP motion |
+- **Currently building:** Full-stack web applications with JavaScript, HTML/CSS, and Spring Boot
+- **Currently learning:** Advanced Data Structures & Algorithms and system design fundamentals
+- **Currently solving:** DSA problems on LeetCode to sharpen problem-solving skills
+- **Looking for:** Internship and SDE opportunities where I can grow as a software engineer
+- **Reach me at:** [LinkedIn](https://www.linkedin.com/in/gopika-ravi-8bb160332)
 
 ---
 
-### 📊 GitHub Stats
+### Tech Stack
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gopika-R2410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gopika-R2410&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopika-R2410&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
-</div>
-
----
-
-### 🐍 Contribution Graph
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Gopika-R2410/Gopika-R2410/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
+### Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**dropSpace**](https://github.com/Gopika-R2410/dropSpace) | Real-time, cross-device clipboard and media vault — pair devices with a 6-digit code or QR scan and sync text, links, code, photos, and videos instantly. | JavaScript |
+| [**Scholar DoodleBox**](https://github.com/Gopika-R2410/Scholar_doodlebox) | All-in-one student productivity hub with Pomodoro sessions, GitHub / LeetCode / HackerRank / GeeksforGeeks progress tracking, goal management, and notes. | JavaScript |
+| [**nexus-crud**](https://github.com/Gopika-R2410/nexus-crud) | Full-stack supermarket POS and inventory system with a glassmorphic Tailwind UI, live stock tracking, and real-time checkout billing. | Spring Boot, MySQL, Tailwind |
+| [**FlowSync**](https://github.com/Gopika-R2410/flowsync-app) | Gamified productivity dashboard with priority-tagged task management and workflow tracking. | HTML, CSS, JavaScript |
+| [**Web Cafe**](https://github.com/Gopika-R2410/Web-Cafe) | Premium café menu UI/UX concept with custom cursor, magnetic hover grid, and glassmorphism styling. | HTML, CSS, GSAP |
+| [**Tally**](https://github.com/Gopika-R2410/Tally) | A neubrutalist word and character counter built with vanilla HTML, CSS, and JavaScript. | HTML, CSS, JavaScript |
+
+---
+
+### GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gopika-R2410&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gopika-R2410&theme=default&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopika-R2410&layout=compact&theme=default&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gopika-R2410&theme=minimal&hide_border=true" width="98%" />
+</p>
+
+---
+
+### Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gopika-ravi-8bb160332"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Gopika_Ravi24/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
+
 <div align="center">
-
-### 💫 Let's Connect & Build Something Great
-
-[![LinkedIn](https://img.shields.io/badge/-Gopika_Ravi-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gopika-ravi-8bb160332)
-[![LeetCode](https://img.shields.io/badge/-Gopika__Ravi24-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Gopika_Ravi24/)
-
-<img src="https://komarev.com/ghpvc/?username=Gopika-R2410&label=Profile+Views&color=6C63FF&style=flat" />
-
-**"Code is like the night sky — chaotic at first glance, but full of patterns waiting to be found."** ✨
-
+  <sub>Thanks for visiting my profile — feel free to explore my repositories and reach out.</sub>
 </div>
