@@ -57,16 +57,18 @@ I'm a Computer Science Engineering student focused on building practical, real-w
 ---
 
 ### GitHub Analytics
- 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gopika-R2410&show_icons=true&theme=default&hide_border=true&title_color=6A9FE0&icon_color=6A9FE0&text_color=333333" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Gopika-R2410&hide_border=true&background=FFFFFF&stroke=6A9FE0&ring=6A9FE0&fire=6A9FE0&currStreakLabel=6A9FE0" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gopika-R2410&show_icons=true&theme=default&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gopika-R2410&theme=default&hide_border=true" width="49%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopika-R2410&layout=compact&hide_border=true&title_color=6A9FE0&text_color=333333&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopika-R2410&layout=compact&theme=default&hide_border=true" width="49%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gopika-R2410&theme=minimal&hide_border=true&cache_seconds=86400" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gopika-R2410&theme=minimal&hide_border=true" width="98%" />
 </p>
 
 ---
