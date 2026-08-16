@@ -18,8 +18,8 @@
 
 I'm a Computer Science Engineering student focused on building practical, real-world applications and strengthening my foundations in Java and Data Structures & Algorithms. I enjoy turning ideas into working products, from full-stack systems to small, well-crafted UI experiments, and I'm actively looking for internship and SDE opportunities where I can contribute and keep learning.
 
-- **Currently building:** Full-stack web applications with JavaScript, HTML/CSS, and Spring Boot
-- **Currently learning:** Advanced Data Structures & Algorithms and system design fundamentals
+- **Currently building:** Full-stack web applications with JavaScript, HTML/CSS, Node.js and Spring Boot
+- **Currently learning:** Advanced Data Structures & Algorithms and System design fundamentals
 - **Currently solving:** DSA problems on LeetCode to sharpen problem-solving skills
 - **Looking for:** Internship and SDE opportunities where I can grow as a software engineer
 - **Reach me at:** [LinkedIn](https://www.linkedin.com/in/gopika-ravi-8bb160332)
