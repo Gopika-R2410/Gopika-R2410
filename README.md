@@ -7,9 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=4C8BF5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gopika+Ravi;Computer+Science+Student;Java+%26+DSA+Enthusiast;Building+Real-World+Projects;Open+to+Internship+%2F+SDE+Roles)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://www.linkedin.com/in/gopika-ravi-8bb160332"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Gopika_Ravi24/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Gopika-R2410&label=Profile%20Views&color=4C8BF5&style=for-the-badge" />
+ <img src="https://komarev.com/ghpvc/?username=Gopika-R2410&label=Profile%20Views&color=4C8BF5&style=for-the-badge" />
 </p>
 
 </div>
