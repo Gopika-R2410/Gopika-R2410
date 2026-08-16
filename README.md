@@ -59,12 +59,7 @@ I'm a Computer Science Engineering student focused on building practical, real-w
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gopika-R2410&show_icons=true&theme=default&hide_border=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gopika-R2410&theme=default&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopika-R2410&layout=compact&theme=default&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
