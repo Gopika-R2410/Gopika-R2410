@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assests/starry night.jpg" alt="Banner" width="100%" />
+<img src="assests/sttt.jpg" alt="Banner" width="100%" />
 
 <br/>
 
